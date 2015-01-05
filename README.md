@@ -1,8 +1,8 @@
-# Manifesto Colabonacao
+# Manifesto Colabonação
 
 O mundo mudou. As novas tecnologias da informação e comunicação introduziram novos paradigmas sociais em nosso cotidiano. Enquanto isso, nossos governos continuaram presos a conceitos arquaicos tratando-os quase como dogmáticos.
 
-Este Manifesto procura privilegiar constantemente a dúvida e os questionamentos sobre nossa sociedade e nosso modo de fazer política, seguindo inspirações do Método Científico. Sendo assim, este documento encontra-se disponível para revisão constante por qualquer pessoa e todas as contribuições são bem-vindas.
+Este Manifesto procura privilegiar constantemente a dúvida e os questionamentos sobre nossa sociedade e nosso modo de fazer política, seguindo inspirações do Método Científico. Sendo assim, este documento encontra-se disponível para revisão constante por qualquer pessoa e todas as contribuições são bem-vindas através do endereço https://github.com/citiz3n/manifesto-colabonacao.
 
 A Colabonação é o novo paradigma proposto para uma sociedade que deseja maior participação de seus cidadãos. É uma nação colaborativa que se pauta na responsabilidade conjunta na gestão de recursos, decisões legislativas e execução das normas sociais estabelecidas em lei.
 
