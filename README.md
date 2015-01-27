@@ -1,6 +1,6 @@
 # Manifesto Colabonação
 
-O mundo mudou. As novas tecnologias da informação e comunicação introduziram novos paradigmas sociais em nosso cotidiano. Enquanto isso, nossos governos continuaram presos a conceitos arquaicos tratando-os quase como dogmáticos.
+O mundo mudou. As novas tecnologias da informação e comunicação introduziram novos paradigmas sociais em nosso cotidiano. Enquanto isso, nossos governos continuaram presos a conceitos arcaicos tratando-os quase como dogmáticos.
 
 Este Manifesto procura privilegiar constantemente a dúvida e os questionamentos sobre nossa sociedade e nosso modo de fazer política, seguindo inspirações do Método Científico. Sendo assim, este documento encontra-se disponível para revisão constante por qualquer pessoa e todas as contribuições são bem-vindas através do endereço https://github.com/citiz3n/manifesto-colabonacao.
 
@@ -18,15 +18,15 @@ Assinam este manifesto qualquer cidadão que acredite em suas ideias e queira co
 
 ## Da não-representatividade
 
-A representação política é falha. Em uma sociedade que não se vê  representada por seus políticos eleitos, e cujos políticos não possuem mecanismos de diálogo com seus representados, abre-se caminho para que políticos profissionais ajam de acordo com seus próprios interesses e não para o interesse da nação. É preciso portanto refutar a Representação Política como único modelo democrátivo viável e construir uma nova experiência social.
+A representação política é falha. Em uma sociedade que não se vê representada por seus políticos eleitos, e cujos políticos não possuem mecanismos de diálogo com seus representados, abre-se caminho para que políticos profissionais ajam de acordo com seus próprios interesses e não para o interesse da nação. É preciso portanto refutar a Representação Política como único modelo democrátivo viável e construir uma nova experiência social.
 
 Nesta nova experiência, os cidadãos agindo politicamente não representam os interesses exclusivos de um grupo, classe, casta ou qualquer outra discriminação e segregação social. Não obstante, estes cidadãos modernos agora fazem política visando o bem-estar coletivo da sociedade em que vivem, jamais privilegiando um grupo em detrimento de outro.
 
 O poder de decisão dos novos cidadãos é constantemente disponível e temporariamente ativo. Isto quer dizer que terão ao seu dispor constantemente ferramentas digitais que possibilitem sua participação na vida política de sua cidade. Um cidadão que decida por suas próprias convicções participar da gestão coletiva e colaborativa dos assuntos políticos da cidade o faz consciente de que sua participação é temporária e não-obrigatória.
 
-Não existem cargos vitalícios. Uma vez que os cidadãos não agem em conluio com uma ideologia ou interesses particular de determinado grupo, não há necessidade de sua participação cidadã estar vinculada a um longo período de mandato. Ao contrário, as ferramentas disponíveis ao cidadão devem deixar isto claro ao partícipe. Isto garantirá a alternância de poder fundamental à democracia.
+Não existem cargos vitalícios. Uma vez que os cidadãos não agem em conluio com uma ideologia ou interesses particulares de determinado grupo, não há necessidade de sua participação cidadã estar vinculada a um longo período de mandato. Ao contrário, após ter dado sua contribuição, o cidadão volta a condição de povo e não se diferencia de outros cidadãos. As ferramentas disponíveis ao cidadão devem deixar isto claro ao partícipe. Isto garantirá a alternância de poder fundamental à democracia.
 
-A participação política não pode ser forçada nos cidadãos. É preciso sobretudo garantir suas liberdaddes individuais de escolhas e opinião. Jamais se deve privilegiar a vontade de representantes sobre seus representados.
+A participação política não pode ser forçada nos cidadãos. A participação deve ser sempre voluntária. É preciso sobretudo garantir suas liberdaddes individuais de escolhas e opinião. Jamais se deve privilegiar a vontade de representantes sobre seus representados.
 
 ## Do Acesso à Informação
 
